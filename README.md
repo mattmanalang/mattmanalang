@@ -1,14 +1,14 @@
 Hi 👋 My name is Matthew Manalang
 =================================
 
-Computer Science Student at University of Houston
+Recent Computer Science graduate from the University of Houston
 -------------------------------------------------
 
-I've been learning to code for 4 years now. I started with Python and C++, but Java is what I'm most familiar with now. I've developed a passion for software development through agile/test-driven development.
+I have been programming for 5 years. My favorite language right now is Python, but I have experience with C++, Java, and SQL. I'm currently looking to gain experience in software development/engineering, but I would also love to get into cybersecurity! I had a professor that once told us: "When it comes to security, the best thing that can happen is... nothing!".
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [matt.manalang@gmail.com](mailto:matt.manalang@gmail.com)
-* 🧠  I'm learning full-stack development
+* 🧠  I'm currently learning full-stack development and a little bit of Swift
 
 ### Skills
 
