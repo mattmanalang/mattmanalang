@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthew Manalang
 =================================
 
-Recent Computer Science graduate from the University of Houston
+B.S. in Computer Science, Minor in Management Information Systems from the University of Houston
 -------------------------------------------------
 
 I have been programming for 5 years. My favorite language right now is Python, but I have experience with C++, Java, and SQL. I'm currently looking to gain experience in software development/engineering, but I would also love to get into cybersecurity! I had a professor that once told us: "When it comes to security, the best thing that can happen is... nothing!".
