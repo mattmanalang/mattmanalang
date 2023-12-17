@@ -1,4 +1,4 @@
-Hi 👋 My name is Matthew Manalang
+Hi 👋 I'm Matthew.
 =================================
 
 B.S. in Computer Science, Minor in Management Information Systems from the University of Houston
