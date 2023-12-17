@@ -8,7 +8,7 @@ Currently I'm a manager at Tom N Toms Coffee, which is a growing Korean coffeeho
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [matt.manalang@gmail.com](mailto:matt.manalang@gmail.com)
-* 🧠  I'm currently learning full-stack development and a little bit of Swift
+* 🧠  I'm currently learning web development and data science with Python.
 
 ### Skills
 
