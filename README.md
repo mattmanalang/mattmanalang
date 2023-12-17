@@ -4,7 +4,7 @@ Hi 👋 My name is Matthew Manalang
 B.S. in Computer Science, Minor in Management Information Systems from the University of Houston
 -------------------------------------------------
 
-I have been programming for 5 years. My favorite language right now is Python, but I have experience with C++, Java, and SQL. I'm currently looking to gain experience in software development/engineering, but I would also love to get into cybersecurity! I had a professor that once told us: "When it comes to security, the best thing that can happen is... nothing!".
+Currently I'm a manager at Tom N Toms Coffee, which is a growing Korean coffeehouse chain with over 500 stores globally. I've worked there throughout my years in college, where I majored in computer science and minored in management of information systems. Through some of my courses, I also gained project management experience collaborating with local Houston businesses. I'm currnetly working through an online Python course that will teach me about data science, automation, web development, and apps. I am trying to pursue a career in software development with a company that is pioneering in the field and will enable me to be the best that I can. 
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [matt.manalang@gmail.com](mailto:matt.manalang@gmail.com)
