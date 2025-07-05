@@ -4,13 +4,15 @@ Hi 👋 I'm Matthew.
 B.S. in Computer Science, Minor in Management Information Systems from the University of Houston
 -------------------------------------------------
 
-Hi! I'm currently a head manager at Tom N Toms Coffee, which is a growing Korean coffeehouse chain with over 500 stores globally. I've worked there throughout my years in college where I majored in Computer Science and minored in Management of Information Systems. Through some of my courses, I also gained project management experience from collaborating with local Houston businesses. In my spare time I've continued to learn through online courses. One particular course that I am currently going through focuses on building web apps and games as well as learning data science and automation with Python!
+I earned my Bachelor's in Computer Science with a minor in Management of Information Systems from the University of Houston. Throughout my journey, I've balanced technical growth with hands-on leadership. At UH, I worked with local Houston businesses managing IT projects, gaining real-world experience beyond the classroom. Meanwhile, I built a career at Tom N Toms starting as a barista, advancing to store manager, then evolving into a data analyst.
 
-I'm eager to start my career in software development/engineering and be a meaningful contribution to my workplace.
+Currently, I am managing and expanding a home lab, gathering experience with IT environments such as Linux, Docker, virtualization, containerization, and networking.
+
+Looking ahead, I know that my diverse experiences, technical foundation, and leadership skills will drive me towards a meaningful career in the tech industry.
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [matt.manalang@gmail.com](mailto:matt.manalang@gmail.com)
-* 🧠  I'm currently learning web development and data science with Python.
+* 🧠  I'm currently learning about containerization, virtualization, and Linux as a part of my home lab.
 
 ### Skills
 
