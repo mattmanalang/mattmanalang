@@ -4,15 +4,10 @@ Hi 👋 I'm Matthew.
 B.S. in Computer Science, Minor in Management Information Systems from the University of Houston
 -------------------------------------------------
 
-I earned my Bachelor's in Computer Science with a minor in Management of Information Systems from the University of Houston. Throughout my journey, I've balanced technical growth with hands-on leadership. At UH, I worked with local Houston businesses managing IT projects, gaining real-world experience beyond the classroom. Meanwhile, I built a career at Tom N Toms starting as a barista, advancing to store manager, then evolving into a data analyst.
-
-Currently, I am managing and expanding a home lab, gathering experience with IT environments such as Linux, Docker, virtualization, containerization, and networking.
-
-Looking ahead, I know that my diverse experiences, technical foundation, and leadership skills will drive me towards a meaningful career in the tech industry.
+I earned my Bachelor's in Computer Science with a minor in Management of Information Systems from the University of Houston. I have hands-on experience in systems administration, network configuration, and infrastructure through self-directed home lab work. I have a background in operations and team leadership, with a focus on transitioning fully into IT infrastructure, cloud, software systems, and system administration roles. I'm comfortable working with Linux, Docker, and self-hosted network services in live environments.
 
 * 🌍  I'm based in Houston, TX
 * ✉️  You can contact me at [matt.manalang@gmail.com](mailto:matt.manalang@gmail.com)
-* 🧠  I'm currently learning about containerization, virtualization, and Linux as a part of my home lab.
 
 ### Skills
 
